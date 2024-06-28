@@ -84,7 +84,7 @@ Python                         10  mins         █░░░░░░░░░�
  <br>
 
 <p align="center"> <img src="https://profile-counter.glitch.me/{SrRiqui}/count.svg" alt="vibrantfix" /> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SrRiqui" alt="vibrantfix" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=SrRiqui" alt="vibrantfix" /> </p> -->
 
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
