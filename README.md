@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=SrRiqui)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+SrRiqui+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
 </h1>
 <br>
@@ -82,10 +81,10 @@ Python                         10  mins         █░░░░░░░░░�
 
 ```
 <!--END_SECTION:waka-->
-<!-- <br>
+ <br>
 
-<p align="center"> <img src="https://profile-counter.glitch.me/{vibrantfix}/count.svg" alt="vibrantfix" /> </p>  -->
-
+<p align="center"> <img src="https://profile-counter.glitch.me/{SrRiqui}/count.svg" alt="vibrantfix" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SrRiqui" alt="vibrantfix" /> </p>
 
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
