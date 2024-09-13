@@ -38,7 +38,12 @@ I'm SrRiqui, I'm a Mechatronics Engineering student🎓. I am a passionate stude
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="autocad logo"  />
   <img width="12" />
   
-
+  <!-- <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
+  <img width="12" /> 
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <img width="12" />
+  
+  -->
 
   
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
