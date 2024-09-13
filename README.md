@@ -20,8 +20,7 @@ I'm SrRiqui, I'm a Mechatronics Engineering student🎓. I am a passionate stude
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
-  <img width="12" />
+  
   <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="autocad logo"  />
