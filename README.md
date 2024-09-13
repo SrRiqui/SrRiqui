@@ -24,14 +24,13 @@ I'm SrRiqui, I'm a Mechatronics Engineering student🎓. I am a passionate stude
   <img width="12" />
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo"  />
   <img width="12" />
-   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="autocad logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="autocad logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="autocad logo"  />
   <img width="12" />
+  
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
 </div>
 
