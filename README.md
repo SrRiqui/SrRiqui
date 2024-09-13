@@ -20,8 +20,6 @@ I'm SrRiqui, I'm a Mechatronics Engineering student🎓. I am a passionate stude
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo"  />
@@ -30,6 +28,19 @@ I'm SrRiqui, I'm a Mechatronics Engineering student🎓. I am a passionate stude
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="autocad logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="autocad logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="autocad logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="autocad logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="autocad logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="autocad logo"  />
+  <img width="12" />
+  
+
+
   
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
 </div>
