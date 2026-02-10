@@ -2,7 +2,7 @@
 </h1>
 <br>
 <p><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="60px">
-I'm SrRiqui, I'm a Mechatronics Engineering student🎓. I am a passionate student who is always willing to learn and work on all technologies. I love exploring new technologies and trying to solve real-life problems 🚀. Apart from that, I also love listening to music🎵 and playing games🎮.
+I'm SrRiqui, I'm a Mechatronics Engineering 🎓. I am a passionate student who is always willing to learn and work on all technologies. I love exploring new technologies and trying to solve real-life problems 🚀. Apart from that, I also love listening to music🎵 and playing games🎮.
 </p>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
